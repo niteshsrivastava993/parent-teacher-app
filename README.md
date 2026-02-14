@@ -28,9 +28,6 @@ A secure, full-stack MERN application designed to facilitate seamless communicat
 ### 3. User Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### 4. Messaging Interface
-![Messages](screenshots/message.png)
-
 ---
 
 ## 🛠️ Tech Stack
